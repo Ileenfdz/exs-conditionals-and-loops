@@ -9,4 +9,10 @@ For this exercise, I have to make a program that asks the user for a number and 
 display a message on the screen indicating whether the number is greater than or less than
 less than 10.
 
+## Exercise 3
+
+For this exercise, I have to make a program that displays on the screen the numbers from 1 to 100 and, ten by ten.
+
+## Exercise 4
+
 
