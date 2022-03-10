@@ -15,4 +15,5 @@ For this exercise, I have to make a program that displays on the screen the numb
 
 ## Exercise 4
 
-
+For this last one, I have to make a program that shows on the screen a menu with different
+options. The user is asked to choose one and display the chosen option.
